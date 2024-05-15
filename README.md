@@ -1,6 +1,6 @@
 The Collapse Assets
 
-Used (Not created by the team):
+### Used (Not created by the team):
 | Type | Name | Directory | Source |
 |------|------|-----------|--------|
 | Font | Inter | Fonts/Inter | https://fonts.google.com/specimen/Inter |
